@@ -1,0 +1,29 @@
+
+
+h1{
+
+  font-family: 'Oleo Script', cursive;
+  text-align: center;
+  font-size: 80px;
+  margin-right: 300px;
+}
+
+
+.foto{
+background-image: url(https://w0.peakpx.com/wallpaper/149/675/HD-wallpaper-jack-daniels-whiskey-jack-daniels-ice-can.jpg );
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+
+.cuadrofotoprincipal{
+height: 1512px;
+   width: 1400px;
+   border: 1px;
+  margin-top: 5px;
+}
+
+.textoInlineBlock {
+display: inline-block;
+}
+
